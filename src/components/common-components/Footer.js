@@ -7,7 +7,7 @@ import dribbleIcon from "./img/ic_dribbble 1.svg"
 const Footer = () => {
   return (
     <footer className="footer">
-      <div className="footer--company_name">(c) kindness Viet Nam</div>
+      <div className="footer--company_name">(c) Kindness Viet Nam</div>
       <div className="footer--contacts">
         <div className="footer--contact_gmail">kindness@gmail.com</div>
         <div className="footer--contact_call">(+84)  912 345 678</div>
